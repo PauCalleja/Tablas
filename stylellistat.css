@@ -1,0 +1,37 @@
+html {
+    font-family: sans-serif;
+    background-color: rgba(6, 8, 133, 0.836);
+  }
+  
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(0, 0, 0);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+    table-layout: fixed;
+      width: 100%;
+    background-color: white;
+}
+  
+td{
+    border-bottom: 1px solid rgb(255, 255, 255);
+    padding: 10px 20px;
+}
+
+th {
+    border-bottom: 1px solid rgb(128, 128, 128);
+    padding: 10px 20px;
+}
+
+th {
+      color: rgb(128, 128, 128);
+      text-align: left;
+}
+
+h1{
+   color: white; 
+}
+img {
+    width: 100px;
+    height: 100px;
+}
